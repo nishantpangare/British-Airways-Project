@@ -19,7 +19,7 @@ Customer review data for British Airways was collected from [Skytrax](https://ww
 
 Following insights were uncovered as they are summed up in the one slide presentation.
 
-
+![BRITISH AIRWAYS Task 1](https://github.com/nishantpangare/British-Airways-Project/assets/84243833/88dd67c8-ce15-46f3-a670-bcc9a67bea5d)
 
 ### Task 2 - Predicting customer buying behaviour
 
@@ -27,4 +27,4 @@ Customers are more empowered than ever because they have access to a wealth of i
 
 This task involves building a high quality predictive to predict the successful bookings using customer bookings data.
 
-![image](https://user-images.githubusercontent.com/89634505/201471191-cdd85024-1691-4136-b9f8-b4b1d8d42f72.png)
+![BRITISH AIRWAYS Task 2](https://github.com/nishantpangare/British-Airways-Project/assets/84243833/61a27ce4-7819-4ba9-9338-a91bce3da25c)
