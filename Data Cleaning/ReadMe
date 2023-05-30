@@ -1,1 +1,3 @@
-
+This folder consist of Original Scraped Dataset i.e BA-data.csv
+Also it consists of Data Cleaning Jupyter notebook which consists of python code to perform cleaning on this data to obtain cleaned dataset 
+i.e Cleaned-BA-Reviews.csv
