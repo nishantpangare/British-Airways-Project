@@ -1,1 +1,10 @@
+This folder consists:
+
+a) customer_booking.csv  => Customer Booking Data used building a model to predict customer booking.
+
+b) Explore Customer Data.ipynb  => Jupyter notebook having python code for exploring customer data. 
+
+c) filtered_customer_booking.csv  => After Exploring the data we will get new Filtered Customer Data
+
+d) Predictive Model.ipynb  => Jupyter Notebook having python code for predictive model. i.e RandomForest Classifier.
 
